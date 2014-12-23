@@ -6,7 +6,7 @@ To get started,
 
 1) clone this repo
 
-	git clone 
+	git clone https://github.com/vppillai/esp8266-Environment.git
 
 2) add esp8266_environment/xtensa-lx106-elf/bin to your PATH variable
 
